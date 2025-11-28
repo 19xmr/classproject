@@ -1,1 +1,8 @@
-/*# sourceMappingURL=style.css.map */
+.card {
+  height: 500px;
+  width: 500px;
+}
+.card p {
+  font-size: 15px;
+  font-family: sans-serif;
+}/*# sourceMappingURL=style.css.map */
